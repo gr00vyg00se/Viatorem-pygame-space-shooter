@@ -1,6 +1,6 @@
 Space shooter game named Viatorem, made with pygame and free online assets.
 
-This is my first coding project, completed using tutorials and the pygame docs
+This is my first coding project, completed using tutorials and the pygame docs. 
 Run this game in a code editor, I used Visual Studio Code. Make sure you have all dependant folders (audio,images,ect).
 
 
