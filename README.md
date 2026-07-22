@@ -12,3 +12,9 @@ I tried to convert the game into an .exe using pyinstaller but I am still too ne
 I did convert it, but the application would not run as it "could not find pygame". I am probably missing something simple but I can not figure it out!
 
 Any help is appreciated!
+
+----
+UPDATE:
+was able to figure out how to package the game. main issue was having 2 versions of pygame installed, and also running a command in pyinstaller to add in pygame to the exe.
+
+Keeping this directory open, but created a new one that is better packaged with cleaner file paths.
